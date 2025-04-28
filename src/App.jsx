@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Alteração para teste de commit <br />
       </p>
+      <p>
+        Mais uma alteração para teste de commit da branch branchinha <br />
+      </p>
     </>
   )
 }
